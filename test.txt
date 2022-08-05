@@ -1,0 +1,2 @@
+Added this text to test if i can write to a file via terminal
+cat < text.txt
